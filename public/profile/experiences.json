@@ -1,18 +1,18 @@
 {
     "experiences": [
         {
-            "title": "Lead Software Engineer",
-            "subtitle": "Dubber, Melbourne",
+            "title": "Senior Software Engineer",
+            "subtitle": "WebRatio , Italy ",
             "workType": "Full-Time",
             "workDescription": [
-                "Planned architecture and developed an identity provider (IDP) for a multinational supermarket chain, reducing the running cost almost by 10% and improving the system’s response time.",
-                "Led a team in redesigning the deployment pipeline using Jenkins, reducing release time from 3 hours to  45 minutes.",
-                " Created a new application that transcribes a voice recording to text using speech-to-text API. By enabling users to analyse their call interactions, it helped improve customer satisfaction and identify potential issues, resulting in a 20% increase in user engagement."
+                "Developing functional and appealing web- and mobile-based applications based on usability.",
+                "Provide website maintenance and enhancements.",
+                "Maintaining graphic standards and branding throughout the product’s interface."
             ],
             "dateText": "Mar 2021 - Feb 2023"
         },
         {
-            "title": "Senior Software Engineer",
+            "title": "Full-stack Engineer",
             "subtitle": "Quick Check, London",
             "workType": "Full-Time",
             "workDescription": [

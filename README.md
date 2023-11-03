@@ -194,7 +194,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
 
 ```
 {
-    "name": "Ross Prince",
+    "name": "Edgardo Gomez",
     "roles": ["a  Web Developer", "a Blockchain Developer", "a Software Engineer"]
 }
 ```
