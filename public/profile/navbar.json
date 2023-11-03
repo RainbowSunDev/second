@@ -1,0 +1,30 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 50,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        }
+    ]
+
+}

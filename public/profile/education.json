@@ -1,0 +1,16 @@
+{
+    "education": [
+        {
+            "title": "August 2010 - July 2014",
+            "cardTitle": "Bachelor Degree of Computer Science",
+            "cardSubtitle": "National University of Singapore",
+            "cardDetailedText": "CGPA - 4.5",
+            "icon": {
+                "src": "images/UWA-Full-Ver-CMYK3.png"
+            }
+        }
+    ],
+    "carousel": [
+        "images/education/Slider0.png"       
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "Lead Software Engineer",
+            "subtitle": "Dubber, Melbourne",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Planned architecture and developed an identity provider (IDP) for a multinational supermarket chain, reducing the running cost almost by 10% and improving the system’s response time.",
+                "Led a team in redesigning the deployment pipeline using Jenkins, reducing release time from 3 hours to  45 minutes.",
+                " Created a new application that transcribes a voice recording to text using speech-to-text API. By enabling users to analyse their call interactions, it helped improve customer satisfaction and identify potential issues, resulting in a 20% increase in user engagement."
+            ],
+            "dateText": "Mar 2021 - Feb 2023"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "Quick Check, London",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Refactored an application due to issues with performance and looming bottlenecks, increasing in response speed and enhancing scalability to handle larger workloads.", 
+                "Implemented innovative check-in solutions for restaurants and hotels using React, streamlining their reservation and guest management processes. These enhancements improved guest satisfaction, and increased operational efficiency."
+            ],
+            "dateText": "Nov 2018 - Dec 2021"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Scholly, Los Angeles",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Developed a whole cross-platform application from the beginning, starting from the sketches to the standalone product.", 
+                "Suggested and implemented improvements in application development to enhance compatibility with the existing API, streamlining the scholarship matching algorithm and AI-powered academic support tools. This resulted in more accurate scholarship recommendations, faster processing times, and easier updates in future iterations."
+            ],
+            "dateText": "Nov 2016 - Oct 2018"
+        }
+    ]
+}

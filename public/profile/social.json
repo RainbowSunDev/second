@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network": "linkedin",
+            "href": "https://www.linkedin.com/in/ross-prince-808487277/"
+        },
+        {
+            "network": "github",
+            "href": "https://github.com/RainbowSunDev"
+        },
+        {
+            "network": "telegram",
+            "href": "https://t.me/skyscrapers1025"
+        },
+        {
+            "network": "email",
+            "href": "mailto:rossprince1025@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/betsniper.png",
+            "title": "Betting Prices From Australia",
+            "bodyText": "- E-commerce website using Next.js / Stripe / Firebase\n -  Reduce risk and improve profit by reliable data\n - Fully responsive\n - Deployed on GCP",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/RainbowSunDev/betsniper-next"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.bet-sniper.com/"
+                }
+            ],
+            "tags" : [
+                "Next.js",
+                "Firebase",
+                "Stripe",
+                "Tailwind CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/personal.png",
+            "title": "Personal Website for trading",
+            "bodyText": "- Built in HTML / Tailwind CSS / Python / MySQL \n - Real time token state by Telegram API \n - Deployed on Digital Ocean",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/RainbowSunDev/TelegramMessage"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://caanalysis.xyz/telegram_message/logs.php"
+                }
+            ],
+            "tags" : [
+                "Telegram Bot",
+                "Python",
+                "Socket.io",
+                "Digital Ocean"
+            ]
+        },
+        {
+            "image" : "images/projects/3_Match.png",
+            "title": "Pet Crush",
+            "bodyText": "- Pet Crush 3 Match Game\n - 3 Match Game made in Unity, C#\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.1001games.com/match-3/pet-crush"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        }
+    ]
+}
